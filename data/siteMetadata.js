@@ -1,21 +1,22 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Imperfect Coder',
+  author: 'Prashant Dhirenda',
+  headerTitle: 'Imperfect Coder',
+  description:
+    'Created this blog to share my learning and post my life experience. If you want me to cover any topic please feel free to contact me 🙂',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteRepo: 'https://github.com/prashant-dhiru/personal-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
+  email: 'prashant.dhirendra@outlook.com',
+  github: 'https://github.com/prashant-dhiru',
+  twitter: 'https://twitter.com/PrashantDhiru',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  youtube: 'https://www.youtube.com/channel/UCVhecbIoMffYMbfYBHULISA',
+  linkedin: 'https://www.linkedin.com/in/prashant-dhirendra-1876b110a/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
